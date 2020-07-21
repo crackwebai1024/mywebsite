@@ -11,7 +11,7 @@ const SubSkills = () => {
 						</div>
 					</div>
 					<div className="row">
-						<div className="col-md-6" data-animate-effect="fadeInLeft">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>HTML</h5>
 								<div className="progress">
@@ -22,7 +22,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>CSS</h5>
 								<div className="progress">
@@ -33,7 +33,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInLeft">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Git</h5>
 								<div className="progress">
@@ -44,7 +44,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>Bootstrap</h5>
 								<div className="progress">
@@ -55,7 +55,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInLeft">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>React Native</h5>
 								<div className="progress">
@@ -66,7 +66,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>NextJS</h5>
 								<div className="progress">
@@ -77,7 +77,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Nest</h5>
 								<div className="progress">
@@ -88,7 +88,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>SQL</h5>
 								<div className="progress">
@@ -99,7 +99,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Express</h5>
 								<div className="progress">
@@ -110,7 +110,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>PHP</h5>
 								<div className="progress">
@@ -121,7 +121,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Wordpress</h5>
 								<div className="progress">
@@ -132,7 +132,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>Responsive Web Design</h5>
 								<div className="progress">
@@ -143,7 +143,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Machine Learning</h5>
 								<div className="progress">
@@ -154,7 +154,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>Data Science</h5>
 								<div className="progress">
@@ -165,7 +165,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Data Analysis</h5>
 								<div className="progress">
@@ -176,7 +176,7 @@ const SubSkills = () => {
 								</div>
 							</div>
                         </div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>Jupyter</h5>
 								<div className="progress">
@@ -187,7 +187,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>Computer Vision</h5>
 								<div className="progress">
@@ -198,7 +198,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>OpenCV</h5>
 								<div className="progress">
@@ -209,7 +209,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>NLP</h5>
 								<div className="progress">
@@ -220,7 +220,7 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h5>CNN</h5>
 								<div className="progress">
@@ -231,11 +231,22 @@ const SubSkills = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-6" data-animate-effect="fadeInRight">
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
 								<h5>RNN</h5>
 								<div className="progress">
 								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width:"20%"}}>
+								    <span>2</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div className="progress-wrap">
+								<h5>VUE</h5>
+								<div className="progress">
+								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="80"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width:"20%"}}>
 								    <span>2</span>
 								  	</div>

@@ -168,6 +168,12 @@
         "category":"A React and node at upwork",
         "image":"racing.png",
         "url":"http://theracingmanager.com/"
+      },
+      {
+        "title":"Bitwage Payment App",
+        "category":"A React and node serverless for bitwage payment",
+        "image":"bitpay.png",
+        "url":"https://bitwage-pay-qa.web.app/"
       }
     ]
   },

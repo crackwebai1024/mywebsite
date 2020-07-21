@@ -1,3 +1,13 @@
 .profile-pic{
     cursor: pointer;
 }
+
+.animate-box.fadeInLeft.animated{
+    height: 50px;
+    margin-bottom:0px;
+}
+
+.animate-box.fadeInRight.animated{
+    height: 50px;
+    margin-bottom:0px;
+}

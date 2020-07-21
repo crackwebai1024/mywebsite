@@ -1437,10 +1437,9 @@ body.offcanvas {
 .js .animate-box {
   opacity: 0; }
 
-.animate-box{
-  height: 200px;
+/* .animate-box{
   margin-bottom: 50px;
-}
+} */
 
 div.services{
   height: 243px;
