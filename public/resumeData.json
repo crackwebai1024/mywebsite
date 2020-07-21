@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name":"Mingxing Wang",
+    "occupation":"Full Stack Web Developer and a machine learning engineer",
+    "description":"Proactive and passionate full stack web developer with over 10 years of experience. Eager to learn new technology and love to conquer new challenge",
+    "image":"profilepic.png",
+    "bio":"Majored computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer. Mastered several algorithms and code challenge.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "piaobristar@gmail.com",
+    "phone": "86-1824-110-8713",
+    "address":{
+      "street":"quanyunlu",
+      "city":"Shenyang",
+      "state":"Liaoning",
+      "zip": "110112"
+    },
+    "website": "http://www.piaobristar.com",
+    "resumedownload":"http://piaobristar.com",
+    "social":[
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/birgh-sar-3641451b2/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/crackwebai1024",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Nankai University",
+        "place": "Tianjin",
+        "degree":"Bachlor of information technology",
+        "entered": "April 2006",
+        "graduated":"March 2010",
+        "description":"Majored at mathematics and information technology. I got bachelor's degree by presenting paper in limitness of new hidden Markov Chain. Mastered several mathematical fields and computer science."
+      }
+    ],
+    "work":[
+      {
+        "company":"Dalian Ship Building Industry",
+        "title":"Front End Web Developer(Internship)",
+        "years":"June 2010 - August 2011",
+        "description":"Worked as a frontend web developer for company web site for over 1 year as an intern and provided high quality and responsibility that proves my ability and working style"
+      },
+      {
+        "company":"Dalian Ship Building Industry",
+        "title":"Front End Web Developer",
+        "years":"September 2011 - November 2015",
+        "description":"Maintain the part of the company website and improve the website landing speed and add items for communication app"
+      },
+      {
+        "company":"CuddlyNest",
+        "title":"Full Stack Web Developer(remote)",
+        "years":"March 2017 - September 2018",
+        "description":"Developed the cuddlynest app for Eastern Asian Hotels and maintain for over 6 months. Improve the landing speed and reduce the time to 50%."
+      },
+      {
+        "company":"Bitwage",
+        "title":"Front End Web Developer(remote)",
+        "years":"January 2019 - Present",
+        "description":"Developed the Bitwage admin app and client app for over 1 year and maintain now. Use new latest framework to build the model with reusable component"
+      },
+      {
+        "company":"Embedica.ai",
+        "title":"Full Stack Web Developer(remote, part time)",
+        "years":"January 2020 - June 2020",
+        "description":"Developed the Embedica NLP App engine and project as a full stack web developer with machine learning and web development skill"
+      },
+      {
+        "company":"Upwork",
+        "title":"Full Stack Web Developer, Machine Learning Egineer",
+        "years":"May 2016 - August 2019",
+        "description":"Developed many websites and entered Kaggle competition and improve the correctness and speed up the face recognition engine"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bitwage admin app",
+        "category":"My React admin app in Bitwage company for over 1year",
+        "image":"bitadmin.png",
+        "url":"https://admin2qa.bitwage.com"
+      },
+      {
+        "title":"Dalian Ship Building Industry",
+        "category":"(offline now) A company I start web development as a frontend web developer",
+        "image":"dalianship.png",
+        "url":""
+      },
+      {
+        "title":"Bitwage Client App",
+        "category":"Client Website I built in Bitwage company",
+        "image":"bitclient.png",
+        "url":"https://v2qa.bitwage.com"
+      },
+      {
+        "title":"Cuddlynest Website",
+        "category":"Company website for Cuddlynest",
+        "image":"cuddlenest.png",
+        "url":"https://www.cuddlynest.com/vacation-rentals/spain/valencian-community/d%c3%a9nia"
+      },
+      {
+        "title":"Embedica.ai NLP app",
+        "category":"(MVP Only) A React and Django Project.",
+        "image":"embedica.png",
+        "url":"https://emnlp.herokuapp.com/"
+      },
+      {
+        "title":"Reach Resort",
+        "category":"A React Project at upwork",
+        "image":"resort.png",
+        "url":"http://reach-resort-hunter.herokuapp.com/"
+      },
+      {
+        "title":"The Racing manager",
+        "category":"A React and node at upwork",
+        "image":"racing.png",
+        "url":"http://theracingmanager.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I was very happy while working with Mingxing. He is a kind, punctual and passionate guy. I love to work with him in the future",
+        "user":"Jinan kajim"
+      },
+      {
+        "text":"Mingxing, very team spirit. He works well with team with communication skills and clear understanding and instruction.",
+        "user":"john lindsay"
+      }
+    ]
+  }
+}
