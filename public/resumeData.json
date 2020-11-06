@@ -4,7 +4,7 @@
     "occupation": "Full Stack Web Developer and a machine learning engineer",
     "description": "Proactive and passionate full stack web developer with over 10 years of experience. Eager to learn new technology and love to conquer new challenge",
     "image": "profilepic.png",
-    "bio": "Majored computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer. Mastered several algorithms and code challenge.",
+    "bio": "Majored computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer.\n Mastered several algorithms and code challenge.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "piaobristar@gmail.com",
     "phone": "86-1824-110-8713",
@@ -15,7 +15,7 @@
       "zip": "110112"
     },
     "website": "http://www.piaobristar.com",
-    "resumedownload": "http://piaobristar.com",
+    "resumedownload": "https://www.dropbox.com/s/9y5m9908yb1qn9j/resume%28ft%29.pdf?dl=1",
     "social": [
       {
         "name": "google-plus",
@@ -50,9 +50,9 @@
       {
         "school": "Nankai University",
         "place": "Tianjin",
-        "degree": "Bachlor of information technology",
-        "entered": "April 2006",
-        "graduated": "March 2010",
+        "degree": "Bachelor of information technology and mathematics",
+        "entered": "December 2006",
+        "graduated": "April 2010",
         "description": "Majored at mathematics and information technology. I got bachelor's degree by presenting paper in limitness of new hidden Markov Chain. Mastered several mathematical fields and computer science."
       }
     ],
@@ -61,37 +61,43 @@
         "company": "Dalian Ship Building Industry",
         "title": "Front End Web Developer(Internship)",
         "years": "June 2010 - August 2011",
-        "description": "Worked as a frontend web developer for company web site for over 1 year as an intern and provided high quality and responsibility that proves my ability and working style"
+        "description": "Worked as a frontend web developer for company web site for over 1 year as an intern and provided high quality and responsibility that proves my ability and working style",
+        "main skills": "HTML, Javascript, CSS, jQuery"
       },
       {
         "company": "Dalian Ship Building Industry",
         "title": "Front End Web Developer",
         "years": "September 2011 - November 2015",
-        "description": "Maintain the part of the company website and improve the website landing speed and add items for communication app"
+        "description": "Maintain the part of the company website and improve the website landing speed and add items for communication app",
+        "main skills": "HTML, Javascript, CSS, jQuery"
       },
       {
         "company": "CuddlyNest",
-        "title": "Full Stack Web Developer(remote)",
+        "title": "Full-Stack Web Developer(remote)",
         "years": "March 2017 - September 2018",
-        "description": "Developed the cuddlynest app for Eastern Asian Hotels and maintain for over 6 months. Improve the landing speed and reduce the time to 50%."
+        "description": "Developed the cuddlynest app for Eastern Asian Hotels and maintain for over 6 months. Improve the landing speed and reduce the time to 50%.",
+        "main skills": "Node.js, React, MongoDB, RestAPI, GIT"
       },
       {
         "company": "Bitwage",
-        "title": "Front End Web Developer(remote)",
+        "title": "Full-Stack Web Developer(remote)",
         "years": "January 2019 - Present",
-        "description": "Developed the Bitwage admin app and client app for over 1 year and maintain now. Use new latest framework to build the model with reusable component"
+        "description": "Developed the Bitwage admin app , client app and payment app for almost 2 years and maintain now. Use new latest framework to build the model with reusable component",
+        "main skills": "React, Node.js, AWS, Serverless, ApiGateWay, S3, Python, Django"
       },
       {
         "company": "Embedica.ai",
         "title": "Full Stack Web Developer(remote, part time)",
         "years": "January 2020 - June 2020",
-        "description": "Developed the Embedica NLP App engine and project as a full stack web developer with machine learning and web development skill"
+        "description": "Developed the Embedica NLP App engine and project as a full stack web developer with machine learning and web development skill",
+        "main skills": "Python, Django, React, NLP, ML"
       },
       {
         "company": "Upwork",
         "title": "Full Stack Web Developer, Machine Learning Egineer",
         "years": "May 2016 - August 2019",
-        "description": "Developed many websites and entered Kaggle competition and improve the correctness and speed up the face recognition engine"
+        "description": "Developed many websites and entered Kaggle competition and improve the correctness and speed up the face recognition engine",
+        "main skills": "React, Angular, ML, Tensorflow, Keras..."
       }
     ],
     "skills": [
