@@ -447,9 +447,9 @@ const SubSkills = () => {
                   aria-valuenow="80"
                   aria-valuemin="0"
                   aria-valuemax="100"
-                  style={{ width: "20%" }}
+                  style={{ width: "30%" }}
                 >
-                  <span>2</span>
+                  <span>3</span>
                 </div>
               </div>
             </div>

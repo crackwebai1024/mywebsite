@@ -832,7 +832,9 @@ body.offcanvas .colorlib-nav-toggle {
 .services.color-6 {
   border-bottom: 2px solid #4054b2;
 }
-
+.services.color-7 {
+  border-bottom: 2px solid #bdf359;
+}
 .services {
   margin-bottom: 80px;
   position: relative;
@@ -930,6 +932,15 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .services.color-6 .icon {
   background: #4054b2;
+}
+.services.color-8 .icon {
+  background: #ade93e;
+}
+.services.color-8 .icon:before {
+  border-color: transparent transparent #ade93e transparent;
+}
+.services.color-8 .icon:after {
+  border-color: #ade93e transparent transparent transparent;
 }
 .services.color-6 .icon:before {
   border-color: transparent transparent #4054b2 transparent;

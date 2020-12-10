@@ -69,14 +69,14 @@
         "title": "Front End Web Developer",
         "years": "September 2011 - November 2015",
         "description": "Maintain the part of the company website and improve the website landing speed and add items for communication app",
-        "main skills": "HTML, Javascript, CSS, jQuery"
+        "main skills": "HTML, Javascript, CSS, jQuery, Ajax"
       },
       {
         "company": "CuddlyNest",
         "title": "Full-Stack Web Developer(remote)",
         "years": "March 2017 - September 2018",
         "description": "Developed the cuddlynest app for Eastern Asian Hotels and maintain for over 6 months. Improve the landing speed and reduce the time to 50%.",
-        "main skills": "Node.js, React, MongoDB, RestAPI, GIT"
+        "main skills": "Node.js, React, MongoDB, RestAPI, GIT, GraphQL, Apollo"
       },
       {
         "company": "Bitwage",

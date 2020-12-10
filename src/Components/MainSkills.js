@@ -136,18 +136,61 @@ const MainSkills = () => {
               </div>
             </div>
           </div>
-          {/* <div className="three columns text-center animate-box">
-                    <div className="services color-6">
-                        <span className="icon">
-                            <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png" height="45px" width="45px"/>
-                        </span>
-                        <div className="desc">
-                            <h5>Machine Learning</h5>
-                            <h5>(deep learning)</h5>
-                            <p>5 Years</p>
-                        </div>
-                    </div>
-                </div> */}
+          <div className="three columns text-center animate-box">
+            <div className="services color-4">
+              <span className="icon">
+                <img
+                  src="images/vuejs-seeklogo.com.svg"
+                  height="40px"
+                  width="40px"
+                />
+              </span>
+              <div className="desc">
+                <h5>Vue</h5>
+                <h5>(Vuetify, Nuxt)</h5>
+                <p>3 Years</p>
+              </div>
+            </div>
+          </div>
+          <div className="three columns text-center animate-box">
+            <div className="services color-8">
+              <span className="icon">
+                <img src="images/mysql.svg" height="50px" width="50px" />
+              </span>
+              <div className="desc">
+                <h5>MySQL</h5>
+                <h5>&nbsp;</h5>
+                <p>5 Years</p>
+              </div>
+            </div>
+          </div>
+          <div className="three columns text-center animate-box">
+            <div className="services color-2">
+              <span className="icon">
+                <img src="images/graphql.svg" height="40px" width="40px" />
+              </span>
+              <div className="desc">
+                <h5>GraphQL/Apollo</h5>
+                <p>5 Years</p>
+              </div>
+            </div>
+          </div>
+          <div className="three columns text-center animate-box">
+            <div className="services color-3">
+              <span className="icon">
+                <img
+                  src="images/laravel-seeklogo.com.svg"
+                  height="40px"
+                  width="40px"
+                />
+              </span>
+              <div className="desc">
+                <h5>Laravel</h5>
+                <h5>(5, 6, 7, 8)</h5>
+                <p>5 Years</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
