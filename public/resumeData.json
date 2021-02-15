@@ -15,7 +15,7 @@
       "zip": "110112"
     },
     "website": "http://www.piaobristar.com",
-    "resumedownload": "https://www.dropbox.com/s/9y5m9908yb1qn9j/resume%28ft%29.pdf?dl=1",
+    "resumedownload": "https://www.dropbox.com/s/loc9s2wp8nn3pfq/resume%28fsk%29.pdf?dl=1",
     "social": [
       {
         "name": "google-plus",
@@ -186,6 +186,18 @@
         "category": "A React App for Nordic Company",
         "image": "nordic_robotic.png",
         "url": "https://fast-headland-80474.herokuapp.com/"
+      },
+      {
+        "title": "Employeeznow Website",
+        "category": "A MERN stack App for employeeznow",
+        "image": "employeeznow.png",
+        "url": "https://employeeznow.com/"
+      },
+      {
+        "title": "Montana Properties",
+        "category": "A Vue App for clearwater montana properties",
+        "image": "comptana.png",
+        "url": "https://www.cmpmontana.com/"
       }
     ]
   },

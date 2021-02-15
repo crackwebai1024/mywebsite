@@ -320,7 +320,10 @@ ul#nav li.current a {
   font: 15px/24px "opensans-regular", sans-serif;
   margin-top: 6px;
 }
-
+.date {
+  color: black;
+  font-weight: 700 !important;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/

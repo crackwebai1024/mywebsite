@@ -439,10 +439,10 @@ const SubSkills = () => {
             data-animate-effect="fadeInRight"
           >
             <div className="progress-wrap">
-              <h5>VUE</h5>
+              <h5>VUE (Nuxt)</h5>
               <div className="progress">
                 <div
-                  className="progress-bar color-2"
+                  className="progress-bar color-3"
                   role="progressbar"
                   aria-valuenow="80"
                   aria-valuemin="0"
@@ -462,9 +462,29 @@ const SubSkills = () => {
               <h5>AWS (serverless, S3, Lambda, ApiGateway)</h5>
               <div className="progress">
                 <div
-                  className="progress-bar color-5"
+                  className="progress-bar color-6"
                   role="progressbar"
                   aria-valuenow="80"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                  style={{ width: "30%" }}
+                >
+                  <span>3</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="col-md-6 animate-box"
+            data-animate-effect="fadeInRight"
+          >
+            <div className="progress-wrap">
+              <h5>Svelte(sapper)</h5>
+              <div className="progress">
+                <div
+                  className="progress-bar color-2"
+                  role="progressbar"
+                  aria-valuenow="30"
                   aria-valuemin="0"
                   aria-valuemax="100"
                   style={{ width: "30%" }}
