@@ -4,7 +4,7 @@
     "occupation": "Full Stack Web Developer and a machine learning engineer",
     "description": "Proactive and passionate full stack web developer with over 10 years of experience. Eager to learn new technology and love to conquer new challenge",
     "image": "profilepic.png",
-    "bio": "Majored computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer.\n Mastered several algorithms and code challenge.",
+    "bio": "Majored in computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer.\n Mastered several algorithms and code challenges.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "piaobristar@gmail.com",
     "phone": "86-1824-110-8713",
@@ -140,40 +140,10 @@
         "url": "https://admin2qa.bitwage.com"
       },
       {
-        "title": "Dalian Ship Building Industry",
-        "category": "(offline now) A company I start web development as a frontend web developer",
-        "image": "dalianship.png",
-        "url": ""
-      },
-      {
         "title": "Bitwage Client App",
         "category": "Client Website I built in Bitwage company",
         "image": "bitclient.png",
         "url": "https://v2qa.bitwage.com"
-      },
-      {
-        "title": "Cuddlynest Website",
-        "category": "Company website for Cuddlynest",
-        "image": "cuddlenest.png",
-        "url": "https://www.cuddlynest.com/vacation-rentals/spain/valencian-community/d%c3%a9nia"
-      },
-      {
-        "title": "Embedica.ai NLP app",
-        "category": "(MVP Only) A React and Django Project.",
-        "image": "embedica.png",
-        "url": "https://emnlp.herokuapp.com/"
-      },
-      {
-        "title": "Reach Resort",
-        "category": "A React Project at upwork",
-        "image": "resort.png",
-        "url": "http://reach-resort-hunter.herokuapp.com/"
-      },
-      {
-        "title": "The Racing manager",
-        "category": "A React and node at upwork",
-        "image": "racing.png",
-        "url": "http://theracingmanager.com/"
       },
       {
         "title": "Bitwage Payment App",
@@ -182,10 +152,22 @@
         "url": "https://bitwage-pay-qa.web.app/"
       },
       {
-        "title": "Nordic Robotic Website",
-        "category": "A React App for Nordic Company",
-        "image": "nordic_robotic.png",
-        "url": "https://fast-headland-80474.herokuapp.com/"
+        "title": "Cuddlynest Website",
+        "category": "Company website for Cuddlynest",
+        "image": "cuddlenest.png",
+        "url": "https://www.cuddlynest.com/vacation-rentals/spain/valencian-community/d%c3%a9nia"
+      },
+      {
+        "title": "Dalian Ship Building Industry",
+        "category": "(offline now) A company I start web development as a frontend web developer",
+        "image": "dalianship.png",
+        "url": ""
+      },
+      {
+        "title": "Embedica.ai NLP app",
+        "category": "(MVP Only) A React and Django Project.",
+        "image": "embedica.png",
+        "url": "https://emnlp.herokuapp.com/"
       },
       {
         "title": "Employeeznow Website",
@@ -198,6 +180,24 @@
         "category": "A Vue App for clearwater montana properties",
         "image": "comptana.png",
         "url": "https://www.cmpmontana.com/"
+      },
+      {
+        "title": "Soffos project",
+        "category": "A React Project at upwork",
+        "image": "soffos.png",
+        "url": "https://red-beach-06d409e03.azurestaticapps.net/"
+      },
+      {
+        "title": "The Racing manager",
+        "category": "A React and node at upwork",
+        "image": "racing.png",
+        "url": "http://theracingmanager.com/"
+      },
+      {
+        "title": "Nordic Robotic Website",
+        "category": "A React App for Nordic Company",
+        "image": "nordic_robotic.png",
+        "url": "https://fast-headland-80474.herokuapp.com/"
       }
     ]
   },
