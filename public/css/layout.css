@@ -35,7 +35,6 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/header-background.png) no-repeat top center;
   /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0x_xejRLKCWAZZwGqf7R21EL1yBOcW75Hqg&usqp=CAU)
     no-repeat bottom center; */
   background-size: cover !important;
@@ -44,6 +43,9 @@ header {
   overflow: hidden;
 }
 
+header.onload {
+  background: #161415 url(../images/header-background.png) no-repeat top center;
+}
 /* vertically center banner section */
 header:before {
   content: "";

@@ -1886,7 +1886,7 @@ div.services {
   border: solid 1px #ddd;
   border-radius: 5px;
   background-color: #ccf;
-  box-shadow: 0 1px 2px 3px #99e;
+  box-shadow: 1px 1px 3px 1px rgb(73, 73, 250);
   padding: 20px;
   padding-bottom: 0px;
   margin: 20px;

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Image from "./Image";
 import ModalImage from "react-modal-image";
 
 class About extends Component {

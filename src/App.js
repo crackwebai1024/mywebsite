@@ -9,8 +9,6 @@ import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
-import { ActionButton } from "./Test/ProModeButton";
-import { ProModeContext } from "./Test/ProModeContext";
 class App extends Component {
   constructor(props) {
     super(props);
@@ -42,13 +40,24 @@ class App extends Component {
     });
   }
 
+  onLoadImage() {
+    document.getElementsByTagName("header")[0].classList.add("onload");
+    document.getElementsByClassName("App")[0].style.visibility = "visible";
+  }
   componentDidMount() {
     this.getResumeData();
+    document.getElementsByClassName("App")[0].style.visibility = "hidden";
   }
 
   render() {
     return (
       <div className="App">
+        <img
+          src="/images/header-background.png"
+          alt="prehandImg"
+          onLoad={this.onLoadImage}
+          style={{ display: "none" }}
+        />
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />

@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-import { Component } from "react";
 import { ProModeContext } from "./ProModeContext";
 
 // export class ActionButton extends Component {

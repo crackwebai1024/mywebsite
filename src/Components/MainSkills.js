@@ -35,6 +35,7 @@ class MainSkills extends Component {
                     src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"
                     height="40px"
                     width="40px"
+                    alt="js"
                   />
                 </span>
                 <div className="desc">
@@ -51,6 +52,7 @@ class MainSkills extends Component {
                     src="https://img.icons8.com/color/48/000000/react-native.png"
                     height="40px"
                     width="40px"
+                    alt="React native"
                   />
                 </span>
                 <div className="desc">
@@ -63,7 +65,12 @@ class MainSkills extends Component {
             <div className="three columns text-center animate-box">
               <div className="services color-3">
                 <span className="icon">
-                  <img src="images/node.png" height="45px" width="45px" />
+                  <img
+                    src="images/node.png"
+                    height="45px"
+                    width="45px"
+                    alt="node"
+                  />
                 </span>
                 <div className="desc">
                   <h5>NodeJS</h5>
@@ -79,6 +86,7 @@ class MainSkills extends Component {
                     src="https://api.iconify.design/logos-typescript-icon.svg?height=40"
                     height="40px"
                     width="40px"
+                    alt="ts"
                   />
                 </span>
                 <div className="desc">
@@ -95,6 +103,7 @@ class MainSkills extends Component {
                     src="images/angular-icon-1.svg"
                     height="40px"
                     width="40px"
+                    alt="angular"
                   />
                 </span>
                 <div className="desc">
@@ -107,7 +116,12 @@ class MainSkills extends Component {
             <div className="three columns text-center animate-box">
               <div className="services color-6">
                 <span className="icon">
-                  <img src="images/mongodb.png" height="40px" width="40px" />
+                  <img
+                    src="images/mongodb.png"
+                    height="40px"
+                    width="40px"
+                    alt="mongodb"
+                  />
                 </span>
                 <div className="desc">
                   <h5>MongoDB</h5>
@@ -123,6 +137,7 @@ class MainSkills extends Component {
                     src="https://img.icons8.com/color/48/000000/python.png"
                     height="40px"
                     width="40px"
+                    alt="python"
                   />
                 </span>
                 <div className="desc">
@@ -139,6 +154,7 @@ class MainSkills extends Component {
                     src="https://img.icons8.com/ios-filled/50/000000/django.png"
                     height="40px"
                     width="40px"
+                    alt="django"
                   />
                 </span>
                 <div className="desc">
@@ -155,6 +171,7 @@ class MainSkills extends Component {
                     src="images/vuejs-seeklogo.com.svg"
                     height="40px"
                     width="40px"
+                    alt="vue"
                   />
                 </span>
                 <div className="desc">
@@ -167,7 +184,12 @@ class MainSkills extends Component {
             <div className="three columns text-center animate-box">
               <div className="services color-8">
                 <span className="icon">
-                  <img src="images/mysql.svg" height="50px" width="50px" />
+                  <img
+                    src="images/mysql.svg"
+                    height="50px"
+                    width="50px"
+                    alt="mySql"
+                  />
                 </span>
                 <div className="desc">
                   <h5>MySQL</h5>
@@ -179,7 +201,12 @@ class MainSkills extends Component {
             <div className="three columns text-center animate-box">
               <div className="services color-2">
                 <span className="icon">
-                  <img src="images/graphql.svg" height="40px" width="40px" />
+                  <img
+                    src="images/graphql.svg"
+                    height="40px"
+                    width="40px"
+                    alt="graphQL"
+                  />
                 </span>
                 <div className="desc">
                   <h5>GraphQL/Apollo</h5>
@@ -194,6 +221,7 @@ class MainSkills extends Component {
                     src="images/laravel-seeklogo.com.svg"
                     height="40px"
                     width="40px"
+                    alt="laravel"
                   />
                 </span>
                 <div className="desc">
