@@ -1,5 +1,7 @@
 .profile-pic {
   cursor: pointer;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .animate-box.fadeInLeft.animated {

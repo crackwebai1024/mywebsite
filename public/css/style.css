@@ -1862,15 +1862,16 @@ div.services {
 }
 
 .aboutme {
-  background-color: #111111;
-  border-radius: 5px;
-  padding: 10px 30px;
+  background-color: #ab18e6;
+  border-radius: 20px;
+  padding: 20px 30px 10px 30px;
   margin-top: 0px;
   margin-bottom: 20px;
+  box-shadow: 0px 0px 5px;
 }
 
 .bio {
-  color: #afafaf !important;
+  color: white !important;
   font-weight: 500;
   letter-spacing: 1px;
 }
