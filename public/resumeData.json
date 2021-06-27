@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
+        "url": "mailto:piaobristar@gmail.com",
         "className": "fa fa-google-plus"
       },
       {
@@ -29,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/mingxingwang",
         "className": "fa fa-instagram"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name": "skype",
-        "url": "http://skype.com",
+        "url": "https://join.skype.com/invite/oQ7InhXTjzf6",
         "className": "fa fa-skype"
       }
     ]
@@ -133,18 +133,18 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Bitwage admin app",
-        "category": "My React admin app in Bitwage company for over 1year",
-        "image": "bitadmin.png",
-        "url": "https://admin2qa.bitwage.com"
-      },
-      {
-        "title": "Bitwage Client App",
-        "category": "Client Website I built in Bitwage company",
-        "image": "bitclient.png",
-        "url": "https://v2qa.bitwage.com"
-      },
+      // {
+      //   "title": "Bitwage admin app",
+      //   "category": "My React admin app in Bitwage company for over 1year",
+      //   "image": "bitadmin.png",
+      //   "url": "https://admin2qa.bitwage.com"
+      // },
+      // {
+      //   "title": "Bitwage Client App",
+      //   "category": "Client Website I built in Bitwage company",
+      //   "image": "bitclient.png",
+      //   "url": "https://v2qa.bitwage.com"
+      // },
       {
         "title": "Bitwage Payment App",
         "category": "A React and node serverless for bitwage payment",
@@ -158,10 +158,16 @@
         "url": "https://www.cuddlynest.com/vacation-rentals/spain/valencian-community/d%c3%a9nia"
       },
       {
-        "title": "Dalian Ship Building Industry",
-        "category": "(offline now) A company I start web development as a frontend web developer",
-        "image": "dalianship.png",
-        "url": ""
+        "title": "Montana Properties",
+        "category": "A Vue App for clearwater montana properties",
+        "image": "comptana.png",
+        "url": "https://www.cmpmontana.com/"
+      },
+      {
+        "title": "Soffos project",
+        "category": "A React Project at upwork",
+        "image": "soffos.png",
+        "url": "https://red-beach-06d409e03.azurestaticapps.net/"
       },
       {
         "title": "Embedica.ai NLP app",
@@ -174,18 +180,6 @@
         "category": "A MERN stack App for employeeznow",
         "image": "employeeznow.png",
         "url": "https://employeeznow.com/"
-      },
-      {
-        "title": "Montana Properties",
-        "category": "A Vue App for clearwater montana properties",
-        "image": "comptana.png",
-        "url": "https://www.cmpmontana.com/"
-      },
-      {
-        "title": "Soffos project",
-        "category": "A React Project at upwork",
-        "image": "soffos.png",
-        "url": "https://red-beach-06d409e03.azurestaticapps.net/"
       },
       {
         "title": "The Racing manager",
@@ -205,7 +199,7 @@
     "testimonials": [
       {
         "text": "I was very happy while working with Mingxing. He is a kind, punctual and passionate guy. I love to work with him in the future",
-        "user": "Jinan kajim"
+        "user": "Scott Gardiner"
       },
       {
         "text": "Mingxing, very team spirit. He works well with team with communication skills and clear understanding and instruction.",
