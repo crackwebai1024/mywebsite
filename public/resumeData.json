@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Mingxing Wang",
-    "occupation": "Full Stack Web Developer and a machine learning engineer",
-    "description": "Proactive and passionate full stack web developer with over 10 years of experience. Eager to learn new technology and love to conquer new challenge",
+    "occupation": "Full Stack Web Developer (more experienced in frontend) and a machine learning engineer",
+    "description": "Proactive and passionate full stack web developer with over 10 years of experience. Eager to conquer new technology and challenge",
     "image": "profilepic.png",
-    "bio": "Majored in computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer.\n Mastered several algorithms and code challenges.",
+    "bio": "Majored in computer science and mathematics at university. Worked in Big 3 companies(Dalian ship building industry, CuddlyNest, Bitwage) as a full stack web developer.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "piaobristar@gmail.com",
     "phone": "86-1824-110-8713",
@@ -14,7 +14,7 @@
       "state": "Liaoning",
       "zip": "110112"
     },
-    "website": "http://www.piaobristar.com",
+    "website": "https://mingxing.vercel.app",
     "resumedownload": "https://www.dropbox.com/s/loc9s2wp8nn3pfq/resume%28fsk%29.pdf?dl=1",
     "social": [
       {
@@ -133,18 +133,6 @@
   },
   "portfolio": {
     "projects": [
-      // {
-      //   "title": "Bitwage admin app",
-      //   "category": "My React admin app in Bitwage company for over 1year",
-      //   "image": "bitadmin.png",
-      //   "url": "https://admin2qa.bitwage.com"
-      // },
-      // {
-      //   "title": "Bitwage Client App",
-      //   "category": "Client Website I built in Bitwage company",
-      //   "image": "bitclient.png",
-      //   "url": "https://v2qa.bitwage.com"
-      // },
       {
         "title": "Bitwage Payment App",
         "category": "A React and node serverless for bitwage payment",
