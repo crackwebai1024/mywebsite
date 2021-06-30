@@ -28,6 +28,7 @@ class About extends Component {
 
     return (
       <section id="about">
+        <img src="/images/bguser.jpg" className="bguser" />
         <div className="row">
           <div className="three columns">
             <ModalImage

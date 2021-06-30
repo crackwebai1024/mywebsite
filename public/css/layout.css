@@ -156,6 +156,7 @@ header .scrolldown a:hover {
   left: 0;
   top: 0;
   background-color: rgba(0, 0, 0, 0.2);
+  background-color: #6a08ebce;
 }
 .opaque {
   background-color: #333;
@@ -210,12 +211,24 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: #7510f7;
+  /* background: #7510f7; */
+  background-image: url("../../public/images/bguser.jpg");
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
+  position: relative;
 }
 
+.bguser {
+  position: absolute;
+  top: 0px;
+  z-index: -3;
+}
+
+.aboutme:hover {
+  transform: scale(1.2);
+  z-index: 100;
+}
 #about a,
 #about a:visited {
   color: #fff;
