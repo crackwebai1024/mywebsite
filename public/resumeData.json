@@ -15,7 +15,7 @@
       "zip": "110112"
     },
     "website": "https://mingxing.vercel.app",
-    "resumedownload": "https://www.dropbox.com/s/rl37sll9qbp4pof/resume%282021-9-20%29.pdf?dl=1",
+    "resumedownload": "https://www.dropbox.com/s/v1hr411bg489xgu/myresume.pdf?dl=1",
     "social": [
       {
         "name": "google-plus",
@@ -81,9 +81,9 @@
       {
         "company": "Bitwage",
         "title": "Full-Stack Web Developer(remote)",
-        "years": "January 2019 - Present",
+        "years": "January 2019 - April 2022",
         "description": "Developed the Bitwage admin app , client app and payment app for almost 2 years and maintain now. Use new latest framework to build the model with reusable component",
-        "main skills": "React, Node.js, AWS, Serverless, ApiGateWay, S3, Python, Django"
+        "main skills": "Web3, Blockchain, React, Node.js, AWS, Serverless, ApiGateWay, S3, Python, Django"
       },
       {
         "company": "Embedica.ai",

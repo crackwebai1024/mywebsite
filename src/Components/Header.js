@@ -63,10 +63,10 @@ class Header extends Component {
         </nav>
 
         <div className="row banner">
-          <div className="banner-text">
+          <div className="banner-text" style={{ paddingTop: "20px" }}>
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
-              I'm a {city} based <span>{occupation}</span>. {description}.
+              {city} based <span>{occupation}</span>. {description}.
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
