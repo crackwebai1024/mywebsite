@@ -31,28 +31,21 @@ class Resume extends Component {
           </div>
         );
       });
-      var work = this.props.data.work.map(function (work) {
+      var work = this.props.data.work.map(function (work, key) {
         return (
-          <div key={work.company} className="workcompany">
-            <h3>{work.company}</h3>
-            <p className="info">
-              {work.title}
-              <span>&bull;</span> <em className="date">{work.years}</em>
-            </p>
-            <p>{work.description}</p>
-            <p className="mainskills">{work["main skills"]}</p>
+          <div className="col-md-6" style={{ flexShrink: 0 }}>
+            <div key={work.company} className={`workcompany card-${key}`}>
+              <h3>{work.company}</h3>
+              <p className="info">
+                {work.title}
+                <span>&bull;</span> <em className="date">{work.years}</em>
+              </p>
+              <p>{work.description}</p>
+              <p className="mainskills">{work["main skills"]}</p>
+            </div>
           </div>
         );
       });
-      // var skills = this.props.data.skills.map(function (skills) {
-      //   var className = "bar-expand " + skills.name.toLowerCase();
-      //   return (
-      //     <li key={skills.name}>
-      //       <span style={{ width: skills.level }} className={className}></span>
-      //       <em>{skills.name}</em>
-      //     </li>
-      //   );
-      // });
     }
 
     return (
@@ -78,7 +71,12 @@ class Resume extends Component {
             </h1>
           </div>
 
-          <div className="nine columns main-col">{work}</div>
+          <div
+            className="nine columns main-col row"
+            style={{ flexWrap: "wrap" }}
+          >
+            {work}
+          </div>
         </div>
 
         <div className="row skill">

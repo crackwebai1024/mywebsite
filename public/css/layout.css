@@ -26,68 +26,33 @@ body {
   background: #0f0f0f;
 }
 
+.highlight {
+  z-index: 99;
+}
+
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
 
 header {
   position: relative;
-  height: 800px;
-  min-height: 500px;
+  min-height: 800px;
   width: 100%;
   /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0x_xejRLKCWAZZwGqf7R21EL1yBOcW75Hqg&usqp=CAU)
     no-repeat bottom center; */
-  background-size: cover !important;
-  -webkit-background-size: cover !important;
   text-align: center;
   overflow: hidden;
+  background-color: rgb(124, 51, 155, 0.69);
 }
 
-header.onload {
-  background: #161415 url(../images/header-background.png) no-repeat top center;
-}
-/* vertically center banner section */
-header:before {
-  content: "";
-  display: inline-block;
-  vertical-align: middle;
-  height: 100%;
-}
-header .banner {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0 auto;
-  width: 85%;
-  padding-bottom: 30px;
-  text-align: center;
+.header-wrapper {
+  background: url(../images/shenyang.png) no-repeat top center;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
 }
 
-header .banner-text {
-  width: 100%;
-}
-header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
-  color: #fff;
-  letter-spacing: -2px;
-  margin: 0 auto 18px auto;
-  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
-}
-header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
-  color: #5d5d5d;
-  margin: 0 auto;
-  width: 70%;
-  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
-}
-header .banner-text h3 span,
-header .banner-text h3 a {
-  color: #fff;
-}
-header .banner-text hr {
-  width: 60%;
-  margin: 18px auto 24px auto;
-  border-color: #2f2d2e;
-  border-color: rgba(150, 150, 150, 0.1);
+header .spacer {
+  height: 100px;
 }
 
 /* header social links */
@@ -146,17 +111,27 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-  font: 12px "opensans-bold", sans-serif;
+  font: 13px "librebaskerville-italic", sans-serif;
+  padding-left: 50px;
   width: 100%;
+  height: 80px;
   text-transform: uppercase;
-  letter-spacing: 2.5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  letter-spacing: 1.5px;
   margin: 0 auto;
   z-index: 100;
   position: fixed;
   left: 0;
   top: 0;
-  background-color: rgba(0, 0, 0, 0.2);
-  background-color: #6a08ebce;
+  /* background-color: rgba(0, 0, 0, 0.2);
+  background-color: #6a08ebce; */
+  background-color: rgb(124, 51, 155)
+}
+
+#nav-wrap a:hover {
+  background-color: #6a08eb44;
 }
 .opaque {
   background-color: #333;
@@ -167,6 +142,31 @@ header .scrolldown a:hover {
   display: none;
 }
 
+#nav-wrap .user-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 50px;
+  width: 270px;
+  line-height: 10px;
+}
+
+.user-info .name{
+  padding: 0px;
+  margin: 0px;
+  width: 200px;
+}
+#nav-wrap .info-avatar{
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.info-avatar img{
+  width: 100%;
+  height: 100%;
+}
 ul#nav {
   min-height: 48px;
   width: auto;
@@ -205,6 +205,52 @@ ul#nav li a:active {
 ul#nav li.current a {
   color: #f06000;
 }
+
+header .user-image {
+  z-index: 99;
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  overflow: hidden;
+  margin-top: 150px;
+}
+
+.banner-text {
+  padding-top: 80px;
+  color: white;
+}
+
+.responsive-headline {
+  font-style: italic;
+  font-family: 'opensans-bold';
+}
+
+.banner-info {
+  font-family: monospace;
+  line-height: 1.5;
+}
+
+.contact-info {
+  padding-top: 160px;
+}
+
+.contact-info h2{
+  font-family: cursive;
+  color: white;
+}
+
+.download-resume {
+  position: absolute;
+  right: 25px;
+  top: 110px;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  padding: 10px;
+  background-color: inherit;
+  border-radius: 4px;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
@@ -1139,4 +1185,37 @@ footer .social-links li:first-child {
 }
 #go-top a:hover {
   background-color: #0f9095;
+}
+
+.card-0 {
+  background: radial-gradient(#f588d8, #c0a3e5);
+}
+
+.card-1 {
+  background: radial-gradient(#1fe4f5, #3fbafe);
+}
+
+.card-2 {
+  background: radial-gradient(#fbc1cc, #fa99b2);
+}
+
+.card-3 {
+  background: radial-gradient(#76b2fe, #b69efe);
+}
+
+.card-4 {
+  background: radial-gradient(#60efbc, #58d5c9);
+}
+
+.card-5 {
+  background: radial-gradient(#f588d8, #c0a3e5);
+}
+
+.workcompany{
+  transition: all 0.2s;
+}
+
+.workcompany:hover {
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+  transform: scale(1.01);
 }

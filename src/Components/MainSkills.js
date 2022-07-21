@@ -12,7 +12,6 @@ class MainSkills extends Component {
     console.log("componentWillUnmount Message Component");
   }
   render() {
-    console.log("-----in rendering-----");
     return (
       <section className="colorlib-services" data-section="services">
         <div className="colorlib-narrow-content">
