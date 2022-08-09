@@ -6,40 +6,9 @@
 
 /* ================================================================== */
 
-
-/* screenwidth less than 1024px
---------------------------------------------------------------------- */
-@media only screen and (max-width: 1024px) {
-
-    /* header styles
-   ------------------------------------------------------------------ */
-   header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
-      letter-spacing: -1px;
-      margin: 0 auto 12px auto;
-   }
-
-}
-
 /* screenwidth less than 900px
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
-
-    /* header styles
-   ------------------------------------------------------------------ */
-   header .banner { padding-bottom: 12px; }
-   header .banner-text h1 {
-      font: 78px/1.1em 'opensans-bold', sans-serif;
-      letter-spacing: -1px;      
-   }
-   header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
-      width: 80%;
-   }
-   header .banner-text hr {
-      width: 65%;
-      margin: 12px auto;
-   }
    /* nav-wrap */
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
@@ -96,7 +65,9 @@
 ---------------------------------------------------------------------- */
 
 @media only screen and (max-width: 767px) {
-
+   header {
+      height: fit-content !important;
+   }
    /* mobile navigation
    -------------------------------------------------------------------- */
    #nav-wrap {
@@ -107,6 +78,10 @@
       position: fixed;
       top: 0;
       right: 0;
+   }
+
+   .mobile-btn {
+      flex-shrink: 0;
    }
    #nav-wrap > a {
 	   width: 48px;
@@ -161,8 +136,11 @@
 	   display: block;
       padding: 30px 20px 48px 20px;
       background: #1f2024;
-      margin: 0 30px;
+      margin: 0 5px;
       clear: both;
+      margin-top: 170px;
+      width: 200px;
+      flex-shrink: 0;
    }
 
    ul#nav li {
@@ -183,23 +161,6 @@
       line-height: 16px; /* reset line-height from 48px */
       border: none;
    }  
-
-
-   /* Header Styles
-   -------------------------------------------------------------------- */
-   header .banner {
-      padding-bottom: 12px;
-      padding-top: 6px;
-   }
-   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
-   header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
-      width: 85%;
-   }
-   header .banner-text hr {
-      width: 80%;
-      margin: 18px auto;
-   }
 
    /* header social links */
    header .social {
@@ -346,18 +307,6 @@
    /* mobile navigation
    -------------------------------------------------------------------- */
    #nav-wrap ul#nav { width: auto; float: none; }
-
-   /* header styles
-   -------------------------------------------------------------------- */
-   header .banner { padding-top: 24px; }
-   header .banner-text h1 {
-      font: 40px/1.1em 'opensans-bold', sans-serif;      
-      margin: 0 auto 24px auto;
-   }
-   header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
-      width: 90%;
-   }
   
    /* header social links */
    header .social { font-size: 20px;}
@@ -370,6 +319,14 @@
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
 
+   #resume .main-col {
+      padding: 10px;
+   }
+
+   #resume .workcompany {
+      margin-right: 5px;
+      margin-left: 5px;
+   }
 }
 
 

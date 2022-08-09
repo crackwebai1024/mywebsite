@@ -379,7 +379,7 @@ const SubSkills = () => {
             data-animate-effect="fadeInLeft"
           >
             <div className="progress-wrap">
-              <h5>NLP</h5>
+              <h5>Ethereum</h5>
               <div className="progress">
                 <div
                   className="progress-bar color-1"
@@ -399,7 +399,7 @@ const SubSkills = () => {
             data-animate-effect="fadeInRight"
           >
             <div className="progress-wrap">
-              <h5>CNN</h5>
+              <h5>Web3</h5>
               <div className="progress">
                 <div
                   className="progress-bar color-2"
@@ -419,7 +419,7 @@ const SubSkills = () => {
             data-animate-effect="fadeInLeft"
           >
             <div className="progress-wrap">
-              <h5>RNN</h5>
+              <h5>Blockchain</h5>
               <div className="progress">
                 <div
                   className="progress-bar color-3"

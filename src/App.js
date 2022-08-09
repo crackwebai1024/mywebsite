@@ -40,30 +40,19 @@ class App extends Component {
     });
   }
 
-  onLoadImage() {
-    document.getElementsByTagName("header")[0].classList.add("onload");
-    document.getElementsByClassName("App")[0].style.visibility = "visible";
-  }
   componentDidMount() {
     this.getResumeData();
-    document.getElementsByClassName("App")[0].style.visibility = "hidden";
   }
 
   render() {
     return (
       <div className="App">
-        <img
-          src="/images/header-background.png"
-          alt="prehandImg"
-          onLoad={this.onLoadImage}
-          style={{ display: "none" }}
-        />
         <Header data={this.state.resumeData.main} />
-        <About data={this.state.resumeData.main} />
+        {/* <About data={this.state.resumeData.main} /> */}
         <Resume data={this.state.resumeData.resume} />
         <Portfolio data={this.state.resumeData.portfolio} />
         <Testimonials data={this.state.resumeData.testimonials} />
-        <Contact data={this.state.resumeData.main} />
+        {/* <Contact data={this.state.resumeData.main} /> */}
         <Footer data={this.state.resumeData.main} />
       </div>
     );

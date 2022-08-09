@@ -794,7 +794,7 @@ input[type="checkbox"] {
 --------------------------------------------------------------- */
 .row {
   width: 96%;
-  max-width: 1020px;
+  max-width: 1440px;
   margin: 0 auto !important;
 }
 /* fixed width for IE8 */
