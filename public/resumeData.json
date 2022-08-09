@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Mingxing Wang",
+    "name": "Mingxing(Logan) Wang",
     "occupation": "Full Stack Web Developer (more experienced in frontend) and a machine learning engineer",
     "description": "Proactive and passionate full stack web developer with over 10 years of experience. Eager to conquer new technology and challenge",
     "image": "profilepic.png",
@@ -15,7 +15,7 @@
       "zip": "110112"
     },
     "website": "https://mingxing.vercel.app",
-    "resumedownload": "https://www.dropbox.com/s/v1hr411bg489xgu/myresume.pdf?dl=1",
+    "resumedownload": "https://www.dropbox.com",
     "social": [
       {
         "name": "google-plus",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/birgh-sar-3641451b2/",
+        "url": "https://www.linkedin.com/in/logan-wang-06bb26226/",
         "className": "fa fa-linkedin"
       },
       {
