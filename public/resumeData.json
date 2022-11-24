@@ -140,6 +140,12 @@
         "url": "https://bitwage-pay-qa.web.app/"
       },
       {
+        "title": "The Phone Galaxy",
+        "category": "A React, next and node at upwork",
+        "image": "phone.png",
+        "url": "https://next-phone-ecommerce.vercel.app/"
+      },
+      {
         "title": "Cuddlynest Website",
         "category": "Company website for Cuddlynest",
         "image": "cuddlenest.png",
@@ -168,12 +174,6 @@
         "category": "A MERN stack App for employeeznow",
         "image": "employeeznow.png",
         "url": "https://employeeznow.com/"
-      },
-      {
-        "title": "The Racing manager",
-        "category": "A React and node at upwork",
-        "image": "racing.png",
-        "url": "http://theracingmanager.com/"
       },
       {
         "title": "Nordic Robotic Website",
