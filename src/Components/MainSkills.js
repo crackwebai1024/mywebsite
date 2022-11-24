@@ -108,7 +108,23 @@ class MainSkills extends Component {
                 <div className="desc">
                   <h5>Angular</h5>
                   <h5>(6, 7, 8, 9)</h5>
-                  <p>6 Years</p>
+                  <p>4 Years</p>
+                </div>
+              </div>
+            </div>
+            <div className="three columns text-center animate-box">
+              <div className="services color-7">
+                <span className="icon">
+                  <img
+                    src="images/angular-icon-1.svg"
+                    height="40px"
+                    width="40px"
+                    alt="angular"
+                  />
+                </span>
+                <div className="desc">
+                  <h5>AngularJS</h5>
+                  <p>3 Years</p>
                 </div>
               </div>
             </div>
@@ -142,7 +158,7 @@ class MainSkills extends Component {
                 <div className="desc">
                   <h5>Python</h5>
                   <h5>(2.x, 3.x)</h5>
-                  <p>7 Years</p>
+                  <p>3 Years</p>
                 </div>
               </div>
             </div>
@@ -209,7 +225,7 @@ class MainSkills extends Component {
                 </span>
                 <div className="desc">
                   <h5>GraphQL/Apollo</h5>
-                  <p>5 Years</p>
+                  <p>3 Years</p>
                 </div>
               </div>
             </div>
@@ -226,7 +242,7 @@ class MainSkills extends Component {
                 <div className="desc">
                   <h5>Laravel</h5>
                   <h5>(5, 6, 7, 8)</h5>
-                  <p>5 Years</p>
+                  <p>2 Years</p>
                 </div>
               </div>
             </div>

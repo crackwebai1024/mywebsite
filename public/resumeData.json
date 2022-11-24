@@ -76,7 +76,7 @@
         "title": "Full-Stack Web Developer(remote)",
         "years": "March 2017 - September 2018",
         "description": "Developed the cuddlynest app for Eastern Asian Hotels and maintain for over 6 months. Improve the landing speed and reduce the time to 50%.",
-        "main skills": "Node.js, React, MongoDB, RestAPI, GIT, GraphQL, Apollo, Laravel"
+        "main skills": "Node.js, React, Angular, AngularJS, MongoDB, RestAPI, GIT, GraphQL, Apollo, Laravel"
       },
       {
         "company": "Bitwage",
@@ -140,6 +140,12 @@
         "url": "https://bitwage-pay-qa.web.app/"
       },
       {
+        "title": "The Phone Galaxy",
+        "category": "A React, next and node at upwork",
+        "image": "phone.png",
+        "url": "https://next-phone-ecommerce.vercel.app/"
+      },
+      {
         "title": "Cuddlynest Website",
         "category": "Company website for Cuddlynest",
         "image": "cuddlenest.png",
@@ -168,12 +174,6 @@
         "category": "A MERN stack App for employeeznow",
         "image": "employeeznow.png",
         "url": "https://employeeznow.com/"
-      },
-      {
-        "title": "The Racing manager",
-        "category": "A React and node at upwork",
-        "image": "racing.png",
-        "url": "http://theracingmanager.com/"
       },
       {
         "title": "Nordic Robotic Website",
