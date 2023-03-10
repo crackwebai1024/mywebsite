@@ -58,7 +58,7 @@ export default function Home() {
         <div className="items-center lg:flex">
           <p className=" title">Get to know me:</p>
           <p className="text-lg font-bold text-green-500 lg:m-6 sm:text-xl md:text-2xl">
-            Mingxing Wang (王明星)
+            Logan Wang (王明星)
           </p>
         </div>
         <div className="items-center my-8 lg:my-12 lg:flex lg:justify-around">
@@ -75,7 +75,7 @@ export default function Home() {
           </div>
           <div className="my-8 xl:w-4/6 lg:w-3/5 lg:my-0">
             <p className="font-serif text-gray-700 sm:text-lg lg:text-xl">
-              My name is Mingxing Wang.
+              My name is Logan Wang.
               <span className="block">
                 I'm a fullstack senior web developer with rich experience in{" "}
                 <strong>agile development method</strong>. <br />

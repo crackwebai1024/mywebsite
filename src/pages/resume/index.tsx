@@ -66,25 +66,11 @@ export default function Resume() {
               (Full Stack web developer)
             </p>
           </WorkHistory>
-          <WorkHistory period="Jan. 2021 ~ Jun. 2021">
+
+          <WorkHistory period="Jul. 2021 ~ Aug. 2022">
             <div>
               <p className="mt-4 font-serif text-lg text-gray-800 xl:w-4/6 lg:w-3/5 sm:text-xl lg:text-2xl lg:my-0">
-                Fountech Company
-              </p>
-              <p className="my-2 font-serif text-base text-indigo-700 xl:w-4/6 lg:w-3/5 sm:text-lg lg:text-xl lg:my-0">
-                (remote, full time, contract)
-              </p>
-            </div>
-
-            <p className="my-3 font-serif text-gray-600 lg:my-4 xl:w-4/6 lg:w-3/5 sm:text-base lg:text-lg ">
-              (Frontend Web Developer)
-            </p>
-          </WorkHistory>
-
-          <WorkHistory period="Jul. 2021 ~ Jan. 2023">
-            <div>
-              <p className="mt-4 font-serif text-lg text-gray-800 xl:w-4/6 lg:w-3/5 sm:text-xl lg:text-2xl lg:my-0">
-                Keeper Memorial Company
+                Mlabs Company
               </p>
               <p className="my-2 font-serif text-base text-indigo-700 xl:w-4/6 lg:w-3/5 sm:text-lg lg:text-xl lg:my-0">
                 (remote, full time, contract)

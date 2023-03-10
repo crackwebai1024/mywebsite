@@ -1,29 +1,15 @@
 export const projects = [
   {
-    siteUrl: "https://www.mykeeper.com/",
+    siteUrl: "https://www.two.inc/",
     role: "Frontend Web Developer",
-    techStack: "Next.js, GraphQL, React Query, Styled Components, Chakra UI",
-    siteName: "Keeper Memorials",
-    img: "/projects/keeper.png",
+    techStack: "Svelte, Tailwind CSS, Hugo, JQuery, Python, Django, ",
+    siteName: "Two AI",
+    img: "/projects/two.png",
     description:
-      "I worked for building reusable components,UI page and api integration",
-    period: {
-      year: "2021.07",
-      month: "2023.01",
-    },
-  },
-
-  {
-    siteUrl: "https://www.soffos.ai/",
-    role: "Full-Stack Developer",
-    techStack: "React, React-Redux, NodeJS, Hubconnection, Azure",
-    siteName: "Fountech Solution",
-    img: "/projects/soffos.png",
-    description:
-      "I built the frontend for the machine learning app to practice employees.",
+      "I worked for building wrapper for the middleware site for B2B transaction.",
     period: {
       year: "2021.01",
-      month: "2021.06",
+      month: "2022.08",
     },
   },
 
@@ -105,12 +91,12 @@ export const projects = [
 
 export const recommend = [
   {
-    photoUrl: "/images/clients/keeper_logo.png",
-    name: "Mandy Benoulid",
+    photoUrl: "/images/clients/mlabs.jpg",
+    name: "Mark Florisson",
 
-    contactUrl: "https://www.linkedin.com/in/mandy-benoualid/",
-    job: "Keeper Memorial",
-    content: `Mingxing is an exceptional frontend web developer with deep expertise in SPA and SSR frameworks. 
+    contactUrl: "https://www.linkedin.com/in/mark-florisson-742a0175/",
+    job: "Mlabs",
+    content: `Logan is an exceptional frontend web developer with deep expertise in SPA (Svelte) frameworks. 
     Consistently delivered high-quality work, demonstrated exceptional attention to detail, and showed strong team spirit. 
     His contributions were instrumental in driving the success of our business. We wish him all the best in his future endeavors.`,
   },
@@ -119,7 +105,7 @@ export const recommend = [
     name: "John Lindsay",
     contactUrl: "https://www.linkedin.com/in/johnplindsay/",
     job: "Full stack web developer",
-    content: `I have been cooperating with Mingxing for more than 3 years, and I always feel good when I work with him. 
+    content: `I have been cooperating with Logan for more than 3 years, and I always feel good when I work with him. 
     Together, we have achieved great success in our business through our common efforts.`,
   },
 
@@ -129,7 +115,7 @@ export const recommend = [
     contactUrl: "https://www.linkedin.com/in/scott-gardiner-466652157/",
     job: "Full stack web developer",
     content: `
-    Mingxing is an excellent developer with a wealth of experience in start-up businesses. 
+    Logan is an excellent developer with a wealth of experience in start-up businesses. 
     He was a key contributor to the success of our job site development project, helping us to launch an MVP version that exceeded our expectations. 
     I highly recommend him for any start-up looking for a responsible and skilled developer.
     `,

@@ -4,7 +4,7 @@ import { Header } from "./Header";
 import { motion } from "framer-motion";
 import { LinkedinIcon, GitIcon, SkypeIcon } from "./icons";
 
-export const Layout = ({ children, title = "Mingxing Wang" }: any) => {
+export const Layout = ({ children, title = "Logan Wang" }: any) => {
   return (
     <div>
       {renderSide()}
@@ -33,7 +33,7 @@ function renderSide() {
       <div className="m-auto space-y-2">
         <div className="w-8 h-8 lg:w-11 lg:h-11">
           <a
-            href="https://www.linkedin.com/in/birgh-sar-3641451b2/"
+            href="https://www.linkedin.com/in/logan-wang-06bb26226/"
             target="_blank"
             rel="noopener noreferrer"
           >
